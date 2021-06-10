@@ -103,6 +103,13 @@
           ]
         }
       ]
+    },
+    {
+      "type": "link",
+      "slug": "getting-started",
+      "title": "Test page",
+      "children": [],
+      "id": "wvn6hnhz4"
     }
   ]
 }
