@@ -1,8 +1,8 @@
 ---
 date: '2019-07-10T07:00:00.000Z'
-title: Friday changes
+title: Friday changes one more
 position: 0
-last_edited: '2021-06-11T06:22:23.772Z'
+last_edited: '2021-06-11T06:37:37.332Z'
 ---
 Tina Alpaca is a Next.js customizable documentation starter hosted on Vercel.
 
